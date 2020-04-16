@@ -1,5 +1,5 @@
  # Copyright (c) VirenKakasaniya. All rights reserved.
- #Problem Statement link--
+ #Problem Statement link-- https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/jumpy-humpy-5e0231d6/
  #solution is written as below
 
 n=int(input())
